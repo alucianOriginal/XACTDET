@@ -50,3 +50,7 @@ Rot: Signifikante Bündelung von Distanzmarkern an kritischen Stellen; starker H
 XACTDET reagiert auf das Problem der Selbstentlastung durch Grammatik. Es schützt den „Klugen“ vor der sprachlichen Vorfeldsicherung derer, die sich hinter Prozessen verstecken, um nicht persönlich für operative Fehler haften zu müssen. Es ist ein Verhinderungswerkzeug, das Transparenz schafft, wo Verantwortung sprachlich verdampft.
 
 Status: Das Konzept ist fachlich und ethisch sauber, da es keine Urteile („Betrug“) fällt, sondern statistische Muster der Manipulation markiert
+
+Fehler im Konzept: Wenn XACTDET nur auf Distanz prüft, entwischt der „warme Manipulator“.
+
+Korrektur: Wir brauchen in der patterns.json auch „Pseudo-Empathie-Marker“. Wörter, die Verantwortung suggerieren, sie aber im nächsten Halbsatz durch ein „aber“ oder „wegen“ wieder auflösen (Kausalitäts-Check).
