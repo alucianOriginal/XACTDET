@@ -21,7 +21,7 @@ XACTDET ist kein „Lügen-Detektor“ oder Moralwerkzeug, sondern ein Kohärenz
 
 Das Werkzeug identifiziert Muster, bei denen die Handlung im Text zwar bestehen bleibt, der Handelnde aber verschwindet.
 
-    Säule 1 (Inhaltliche Kritikalität): Fokus auf Stellen mit Fristen, Zahlen, Rechten/Pflichten oder Beendigungen.
+Säule 1 (Inhaltliche Kritikalität): Fokus auf Stellen mit Fristen, Zahlen, Rechten/Pflichten oder Beendigungen.
 
 Säule 2 (Stilbruch): Analyse, ob die Sprache an kritischen Stellen plötzlich von der restlichen Text-Basis abweicht (z. B. plötzliche Kälte).
 
@@ -31,7 +31,7 @@ Säule 3 (Distanzsprache): Messung der Entkopplung durch Passivkonstruktionen (�
 
 Um Fehlalarme zu vermeiden, arbeitet XACTDET mit einer relativen Messung:
 
-    Ein Merkmal (wie das Passiv) ist erst dann auffällig, wenn es an einer kritischen Stelle massiv häufiger auftritt als im restlichen Dokument (das „Delta“).
+Ein Merkmal (wie das Passiv) ist erst dann auffällig, wenn es an einer kritischen Stelle massiv häufiger auftritt als im restlichen Dokument (das „Delta“).
 
 Kumulatives Prinzip: Ein Alarm (Rot) wird nur ausgelöst, wenn mehrere Säulen gleichzeitig anschlagen (z. B. Distanzsprache + Frist-Kontext).
 
@@ -39,7 +39,7 @@ Kumulatives Prinzip: Ein Alarm (Rot) wird nur ausgelöst, wenn mehrere Säulen g
 
 Die Ausgabe erfolgt bewusst schlicht, um den Charakter als Analyse-Tool zu wahren:
 
-    Grün: Unauffällig im Rahmen des Textrauschens.
+Grün: Unauffällig im Rahmen des Textrauschens.
 
 Gelb: Leichte Abweichungen; menschliche Prüfung empfohlen.
 
